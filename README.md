@@ -1,15 +1,17 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Praveen+Nigam+👋;MERN+Stack+Developer+🚀;JavaScript+Enthusiast+💡;Lifelong+Learner+📚" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Praveen+Nigam+👋;MERN+Stack+Developer+🚀;JavaScript+Enthusiast+💡;Lifelong+Learner+📚" alt="Typing SVG">
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-- 🌱 Currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
-- 💡 Interested in **Full Stack Development** & **UI/UX Design**  
-- 💞️ Open to collaborating on **React** or **Node.js** projects  
-- ⚡ Fun fact: Snacks + Coffee = Better Code ☕🍕  
+## 👨‍💻 About Me
+<p align="center">
+  🌱 Currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)** <br>
+  💡 Passionate about **Full Stack Development** & **UI/UX Design** <br>
+  💞️ Open to collaborating on **React / Node.js projects** <br>
+  ⚡ Fun fact: Snacks + Coffee = Better Code ☕🍕
+</p>
 
 ---
 
@@ -31,19 +33,33 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenNigam&show_icons=true&theme=radical" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenNigam&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveenNigam&show_icons=true&theme=react&hide_border=false" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenNigam&theme=react&hide_border=false" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PraveenNigam&bg_color=ffffff&color=61dafb&line=000000&point=ff0000&area=true" />
 </p>
 
 ---
 
 ## 📫 Connect With Me  
 <p align="center">
-  <a href="mailto:praveennigam@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/praveen-nigam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/PraveenNigam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:praveennigam@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/praveen-nigam1999/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/PraveenNigam1999">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
 </p>
 
 ---
 
-⭐ _"Code. Learn. Repeat."_
+⭐ _"Code. Learn. Repeat."_  
+
