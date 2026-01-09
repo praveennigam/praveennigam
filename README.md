@@ -1,52 +1,49 @@
-# 👋 Hi, I'm Praven Nigam!
-
-Welcome to my GitHub profile!  
-I’m passionate about building impactful projects, constantly learning new technologies, and sharing knowledge with the community.
-
----
-
-## 🚀 About Me
-
-- 💼 **Profession:** [Your profession or title]
-- 🎓 **Background:** [A brief sentence about your technical/educational background]
-- 💡 **Interests:** [Key interests/hobbies, e.g., AI, web dev, open source]
-- 🌱 **Currently Learning:** [What you’re currently learning or exploring]
-- 💬 **Ask me about:** [Topics/techs you love discussing or helping with]
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Praveen+Nigam+👋;MERN+Stack+Developer+🚀;JavaScript+Enthusiast+💡;Lifelong+Learner+📚" alt="Typing SVG">
+</p>
 
 ---
 
-## 🛠️ Top Skills
-
-- [Skill 1] • [Skill 2] • [Skill 3] • [Skill 4]
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Project Name](#) | Short project blurb | [Tech 1], [Tech 2] |
-| [Project Name](#) | Short project blurb | [Tech 3], [Tech 4] |
-
-_Discover more on my pinned repositories!_
+## 👨‍💻 About Me  
+- 🌱 Currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+- 💡 Interested in **Full Stack Development** & **UI/UX Design**  
+- 💞️ Open to collaborating on **React** or **Node.js** projects  
+- ⚡ Fun fact: Snacks + Coffee = Better Code ☕🍕  
 
 ---
 
-## 📫 Connect With Me
-
-- [LinkedIn](#)
-- [Personal Website/Portfolio](#)
-- [Twitter/X](#)
-- [Blog](#)
-- [Email](#)
+## 🛠 Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## ⚡ GitHub Stats
-
-![Praven's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveennigam&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveennigam&layout=compact&theme=radical)
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveenNigam&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenNigam&theme=radical" height="160px" />
+</p>
 
 ---
 
-_Thank you for visiting! 🚀_
+## 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:praveennigam@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/praveen-nigam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/PraveenNigam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+⭐ _"Code. Learn. Repeat."_
